@@ -1,0 +1,2518 @@
+.link-svg {
+  position: relative;
+  width: 121px;
+  height: 27px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.spanheader-nav-button-highlig {
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 108px;
+  border-radius: 36px;
+  background-color: #2b3947;
+  width: 90px;
+  height: 27px;
+  z-index: 0;
+}
+.svg-icon {
+  position: absolute;
+  bottom: 7px;
+  left: 11px;
+  width: 12px;
+  height: 11px;
+  overflow: hidden;
+}
+.dashboard {
+  position: absolute;
+  top: 8.7px;
+  left: 31.23px;
+  line-height: 11.31px;
+  font-weight: 500;
+}
+.link {
+  position: relative;
+  width: 108px;
+  height: 26px;
+  z-index: 1;
+}
+.svg-icon1 {
+  position: absolute;
+  bottom: 7px;
+  left: 11px;
+  width: 12px;
+  height: 12px;
+  overflow: hidden;
+}
+.markets {
+  position: absolute;
+  top: 8.7px;
+  left: 29px;
+  line-height: 11.31px;
+  font-weight: 500;
+}
+.link1 {
+  position: relative;
+  width: 90px;
+  height: 26px;
+  z-index: 2;
+  font-size: 13px;
+}
+.svg-icon2 {
+  position: absolute;
+  bottom: 7px;
+  left: 11px;
+  width: 12px;
+  height: 13px;
+  overflow: hidden;
+}
+.link2 {
+  position: relative;
+  width: 108px;
+  height: 26px;
+  z-index: 3;
+  font-size: 13px;
+}
+.vote {
+  position: absolute;
+  top: 8.7px;
+  left: 30px;
+  line-height: 11.31px;
+  font-weight: 500;
+}
+.link3 {
+  position: relative;
+  width: 68px;
+  height: 26px;
+  z-index: 4;
+}
+.divheader-content-left,
+.divheader-nav-button-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.divheader-nav-button-wrapper {
+  align-items: flex-start;
+  position: relative;
+}
+.divheader-content-left {
+  padding: 0 301.84002685546875px 0 0;
+  align-items: center;
+  gap: 11px;
+}
+.spanasset-icon,
+.spanasset-icon1 {
+  position: relative;
+  border-radius: 12px;
+  width: 24px;
+  height: 24px;
+}
+.spanasset-icon1 {
+  margin-left: -5.59px;
+}
+.divicon-pair {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 87.15px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.label-ethereum,
+.label-usdc {
+  position: absolute;
+  top: 13px;
+  left: 66.41px;
+  line-height: 18px;
+  font-weight: 500;
+}
+.label-ethereum {
+  left: 112.05px;
+  color: #7a8a99;
+}
+.label-svg {
+  position: absolute;
+  top: 19px;
+  left: 180.3px;
+  width: 10px;
+  height: 6px;
+  overflow: hidden;
+}
+.divbutton {
+  position: relative;
+  border-radius: 8px;
+  width: 206.3px;
+  height: 44px;
+  min-width: 103.19999694824219px;
+}
+.label-connect {
+  position: relative;
+  line-height: 16px;
+  font-weight: 500;
+}
+.divbutton1 {
+  border-radius: 58px;
+  background-color: #1d2833;
+  box-shadow: 0 2px 4px rgba(15, 23, 31, 0.02), 0 4px 8px rgba(15, 23, 31, 0.02);
+  border: 1px solid #00c289;
+  box-sizing: border-box;
+  padding: 14px 19.860000610351562px 14px 21px;
+  align-items: flex-start;
+  min-width: 103.19999694824219px;
+  font-size: 11px;
+}
+.divbutton1,
+.divheader-buttons,
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.divheader-buttons {
+  align-items: flex-start;
+  gap: 8px;
+  text-align: left;
+  font-size: 13px;
+}
+.header {
+  position: absolute;
+  top: 16px;
+  left: 102.5px;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+}
+.spanasset-icon2,
+.spanasset-icon3 {
+  position: relative;
+  border-radius: 18px;
+  width: 36px;
+  height: 36px;
+}
+.spanasset-icon3 {
+  margin-left: -5.59px;
+}
+.divicon-pair1,
+.divtoken-pair-icons {
+  display: flex;
+  flex-direction: row;
+  padding: 0 0.000003814697265625px 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divtoken-pair-icons {
+  border-radius: 200px;
+  background-color: #17212b;
+  padding: 8px 12px;
+}
+.usdc {
+  left: 0;
+  color: #fff;
+}
+.div,
+.ethereum,
+.usdc {
+  position: absolute;
+  top: 0;
+  line-height: 52px;
+  font-weight: 600;
+}
+.div {
+  left: 93.12px;
+  font-size: 26px;
+}
+.ethereum {
+  left: 107.86px;
+}
+.heading-2 {
+  position: relative;
+  width: 343.72px;
+  height: 52px;
+}
+.label-0xc3d688b66703497daa19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 18px;
+  font-weight: 500;
+}
+.link-svg1 {
+  position: absolute;
+  top: 0.5px;
+  left: 329.72px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.divtoken-pair-address {
+  position: relative;
+  width: 343.72px;
+  height: 18px;
+  font-size: 13px;
+}
+.divtoken-pair,
+.divtoken-pair-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divtoken-pair {
+  flex-direction: row;
+  padding: 0 697.8699951171875px 0 0;
+  gap: 12px;
+}
+.heading-1,
+.label-total {
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+}
+.heading-1 {
+  font-size: 29px;
+  line-height: 52px;
+  font-weight: 600;
+  color: #fff;
+}
+.divmarket-history-panel-over {
+  display: flex;
+  flex-direction: column;
+  padding: 0 386.22998046875px 16px 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-icon,
+.vector-icon {
+  position: absolute;
+  height: 18.31%;
+  width: 96.67%;
+  top: 5.44%;
+  right: 2%;
+  bottom: 76.25%;
+  left: 1.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon {
+  height: 45.97%;
+  width: 46.78%;
+  top: 0;
+  right: 23.58%;
+  bottom: 54.03%;
+  left: 29.64%;
+}
+.jun-9 {
+  position: absolute;
+  top: 62.77%;
+  left: 0;
+}
+.group1,
+.group2,
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group1,
+.vector-icon1 {
+  height: 46.02%;
+  width: 5.59%;
+  top: 53.98%;
+  right: 94.41%;
+}
+.vector-icon1 {
+  height: 40.04%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 59.96%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-10 {
+  position: absolute;
+  top: 58.68%;
+  left: 0;
+}
+.group3,
+.vector-icon2 {
+  position: absolute;
+  height: 41.47%;
+  width: 6.52%;
+  top: 58.53%;
+  right: 90.52%;
+  bottom: 0;
+  left: 2.96%;
+}
+.vector-icon2 {
+  height: 40.39%;
+  width: 42.52%;
+  top: 0;
+  right: 28.24%;
+  bottom: 59.61%;
+  left: 29.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-11 {
+  position: absolute;
+  top: 58.92%;
+  left: 0;
+}
+.group5,
+.vector-icon3 {
+  position: absolute;
+  height: 41.71%;
+  width: 6.15%;
+  top: 58.29%;
+  right: 87.46%;
+  bottom: 0;
+  left: 6.39%;
+}
+.vector-icon3 {
+  height: 40.64%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 59.36%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-12 {
+  position: absolute;
+  top: 59.09%;
+  left: 0;
+}
+.group7,
+.vector-icon4 {
+  position: absolute;
+  height: 41.88%;
+  width: 6.52%;
+  top: 58.12%;
+  right: 83.98%;
+  bottom: 0;
+  left: 9.5%;
+}
+.vector-icon4 {
+  height: 39.07%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 60.93%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-13 {
+  position: absolute;
+  top: 58.01%;
+  left: 0;
+}
+.group9,
+.vector-icon5 {
+  position: absolute;
+  height: 40.8%;
+  width: 6.52%;
+  top: 59.2%;
+  right: 80.72%;
+  bottom: 0;
+  left: 12.76%;
+}
+.vector-icon5 {
+  height: 40.61%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 59.39%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-14 {
+  position: absolute;
+  top: 59.07%;
+  left: 0;
+}
+.group11,
+.vector-icon6 {
+  position: absolute;
+  height: 41.86%;
+  width: 6.52%;
+  top: 58.14%;
+  right: 77.45%;
+  bottom: 0;
+  left: 16.03%;
+}
+.vector-icon6 {
+  height: 33.49%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 66.51%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-15 {
+  position: absolute;
+  top: 54.16%;
+  left: 0;
+}
+.group13,
+.vector-icon7 {
+  position: absolute;
+  height: 37.38%;
+  width: 6.52%;
+  top: 62.62%;
+  right: 74.18%;
+  bottom: 0;
+  left: 19.3%;
+}
+.vector-icon7 {
+  height: 36.57%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 63.43%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-16 {
+  position: absolute;
+  top: 56.29%;
+  left: 0;
+}
+.group15,
+.vector-icon8 {
+  position: absolute;
+  height: 39.2%;
+  width: 6.52%;
+  top: 60.8%;
+  right: 70.91%;
+  bottom: 0;
+  left: 22.57%;
+}
+.vector-icon8 {
+  height: 41.59%;
+  width: 41.27%;
+  top: 0;
+  right: 29.06%;
+  bottom: 58.41%;
+  left: 29.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-17 {
+  position: absolute;
+  top: 59.75%;
+  left: 0;
+}
+.group17,
+.vector-icon9 {
+  position: absolute;
+  height: 42.57%;
+  width: 6.33%;
+  top: 57.43%;
+  right: 67.75%;
+  bottom: 0;
+  left: 25.92%;
+}
+.vector-icon9 {
+  height: 40.89%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 59.11%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-18 {
+  position: absolute;
+  top: 59.27%;
+  left: 0;
+}
+.group19,
+.vector-icon10 {
+  position: absolute;
+  height: 42.06%;
+  width: 6.52%;
+  top: 57.94%;
+  right: 64.38%;
+  bottom: 0;
+  left: 29.1%;
+}
+.vector-icon10 {
+  height: 40.55%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 59.45%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-19 {
+  position: absolute;
+  top: 59.03%;
+  left: 0;
+}
+.group21,
+.vector-icon11 {
+  position: absolute;
+  height: 41.82%;
+  width: 6.52%;
+  top: 58.18%;
+  right: 61.11%;
+  bottom: 0;
+  left: 32.37%;
+}
+.vector-icon11 {
+  height: 19.73%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 80.27%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-20 {
+  position: absolute;
+  top: 44.68%;
+  left: 0;
+}
+.group23,
+.vector-icon12 {
+  position: absolute;
+  height: 30.97%;
+  width: 6.89%;
+  top: 69.03%;
+  right: 57.64%;
+  bottom: 0;
+  left: 35.47%;
+}
+.vector-icon12 {
+  height: 34.85%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 65.15%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-21 {
+  position: absolute;
+  top: 55.1%;
+  left: 0;
+}
+.group25,
+.vector-icon13 {
+  position: absolute;
+  height: 38.16%;
+  width: 6.52%;
+  top: 61.84%;
+  right: 54.58%;
+  bottom: 0;
+  left: 38.9%;
+}
+.vector-icon13 {
+  height: 38.26%;
+  width: 38.98%;
+  top: 0;
+  right: 27.79%;
+  bottom: 61.74%;
+  left: 33.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-22 {
+  position: absolute;
+  top: 57.46%;
+  left: 0;
+}
+.group27,
+.vector-icon14 {
+  position: absolute;
+  height: 40.27%;
+  width: 6.71%;
+  top: 59.73%;
+  right: 51.39%;
+  bottom: 0;
+  left: 41.9%;
+}
+.vector-icon14 {
+  height: 37.49%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 62.51%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-23 {
+  position: absolute;
+  top: 56.92%;
+  left: 0;
+}
+.group29,
+.vector-icon15 {
+  position: absolute;
+  height: 39.77%;
+  width: 6.89%;
+  top: 60.23%;
+  right: 47.83%;
+  bottom: 0;
+  left: 45.27%;
+}
+.vector-icon15 {
+  height: 37.99%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 62.01%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-24 {
+  position: absolute;
+  top: 57.27%;
+  left: 0;
+}
+.group31,
+.vector-icon16 {
+  position: absolute;
+  height: 40.09%;
+  width: 6.89%;
+  top: 59.91%;
+  right: 44.57%;
+  bottom: 0;
+  left: 48.54%;
+}
+.vector-icon16 {
+  height: 41.98%;
+  width: 38.98%;
+  top: 0;
+  right: 29.35%;
+  bottom: 58.02%;
+  left: 31.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-25 {
+  position: absolute;
+  top: 60.02%;
+  left: 0;
+}
+.group33,
+.vector-icon17 {
+  position: absolute;
+  height: 42.85%;
+  width: 6.71%;
+  top: 57.15%;
+  right: 41.49%;
+  bottom: 0;
+  left: 51.81%;
+}
+.vector-icon17 {
+  height: 45.6%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 54.4%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-26 {
+  position: absolute;
+  top: 62.51%;
+  left: 0;
+}
+.group35,
+.vector-icon18 {
+  position: absolute;
+  height: 45.7%;
+  width: 6.89%;
+  top: 54.3%;
+  right: 38.03%;
+  bottom: 0;
+  left: 55.08%;
+}
+.vector-icon18 {
+  height: 46.61%;
+  width: 38.98%;
+  top: 0;
+  right: 27.79%;
+  bottom: 53.39%;
+  left: 33.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-27 {
+  position: absolute;
+  top: 63.2%;
+  left: 0;
+}
+.group37,
+.vector-icon19 {
+  position: absolute;
+  height: 46.56%;
+  width: 6.71%;
+  top: 53.44%;
+  right: 35.06%;
+  bottom: 0;
+  left: 58.24%;
+}
+.vector-icon19 {
+  height: 46.97%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 53.03%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-28 {
+  position: absolute;
+  top: 63.45%;
+  left: 0;
+}
+.group39,
+.vector-icon20 {
+  position: absolute;
+  height: 46.88%;
+  width: 6.89%;
+  top: 53.12%;
+  right: 31.5%;
+  bottom: 0;
+  left: 61.61%;
+}
+.vector-icon20 {
+  height: 48.22%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 51.78%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-29 {
+  position: absolute;
+  top: 64.31%;
+  left: 0;
+}
+.group41,
+.vector-icon21 {
+  position: absolute;
+  height: 48.01%;
+  width: 6.89%;
+  top: 51.99%;
+  right: 28.23%;
+  bottom: 0;
+  left: 64.88%;
+}
+.vector-icon21 {
+  height: 47.98%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 52.02%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-30 {
+  position: absolute;
+  top: 64.15%;
+  left: 0;
+}
+.group43,
+.vector-icon22 {
+  position: absolute;
+  height: 47.8%;
+  width: 6.89%;
+  top: 52.2%;
+  right: 24.96%;
+  bottom: 0;
+  left: 68.14%;
+}
+.vector-icon22 {
+  height: 48.13%;
+  width: 58.47%;
+  top: 0;
+  right: 17.26%;
+  bottom: 51.87%;
+  left: 24.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-1 {
+  position: absolute;
+  top: 64.25%;
+  left: 0;
+}
+.group45,
+.vector-icon23 {
+  position: absolute;
+  height: 47.93%;
+  width: 4.47%;
+  top: 52.07%;
+  right: 23.08%;
+  bottom: 0;
+  left: 72.45%;
+}
+.vector-icon23 {
+  height: 47.89%;
+  width: 53.97%;
+  top: 0;
+  right: 20.25%;
+  bottom: 52.11%;
+  left: 25.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-2 {
+  position: absolute;
+  top: 64.09%;
+  left: 0;
+}
+.group47,
+.vector-icon24 {
+  position: absolute;
+  height: 47.71%;
+  width: 4.84%;
+  top: 52.29%;
+  right: 19.6%;
+  bottom: 0;
+  left: 75.55%;
+}
+.vector-icon24 {
+  height: 61.57%;
+  width: 53.97%;
+  top: 0;
+  right: 22.41%;
+  bottom: 38.43%;
+  left: 23.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-3 {
+  position: absolute;
+  top: 73.51%;
+  left: 0;
+}
+.group49,
+.vector-icon25 {
+  position: absolute;
+  height: 64.69%;
+  width: 4.84%;
+  top: 35.31%;
+  right: 16.23%;
+  bottom: 0;
+  left: 78.93%;
+}
+.vector-icon25 {
+  height: 63.43%;
+  width: 53.97%;
+  top: 0;
+  right: 22.41%;
+  bottom: 36.57%;
+  left: 23.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-4 {
+  position: absolute;
+  top: 74.8%;
+  left: 0;
+}
+.group51,
+.vector-icon26 {
+  position: absolute;
+  height: 67.99%;
+  width: 4.84%;
+  top: 32.01%;
+  right: 12.96%;
+  bottom: 0;
+  left: 82.19%;
+}
+.vector-icon26 {
+  height: 64.82%;
+  width: 53.97%;
+  top: 0;
+  right: 20.25%;
+  bottom: 35.18%;
+  left: 25.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-5 {
+  position: absolute;
+  top: 75.76%;
+  left: 0;
+}
+.group53,
+.vector-icon27 {
+  position: absolute;
+  height: 70.68%;
+  width: 4.84%;
+  top: 29.32%;
+  right: 9.8%;
+  bottom: 0;
+  left: 85.36%;
+}
+.vector-icon27 {
+  height: 64.52%;
+  width: 53.97%;
+  top: 0;
+  right: 22.41%;
+  bottom: 35.48%;
+  left: 23.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-6 {
+  position: absolute;
+  top: 75.55%;
+  left: 0;
+}
+.group55,
+.vector-icon28 {
+  position: absolute;
+  height: 70.08%;
+  width: 4.84%;
+  top: 29.92%;
+  right: 6.43%;
+  bottom: 0;
+  left: 88.73%;
+}
+.vector-icon28 {
+  height: 75.1%;
+  width: 56.13%;
+  top: 0;
+  right: 21.07%;
+  bottom: 24.9%;
+  left: 22.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-7 {
+  position: absolute;
+  top: 82.84%;
+  left: 0;
+}
+.group57,
+.vector-icon29 {
+  position: absolute;
+  height: 99.83%;
+  width: 4.66%;
+  top: 0.17%;
+  right: 3.27%;
+  bottom: 0;
+  left: 92.08%;
+}
+.vector-icon29 {
+  height: 75.14%;
+  width: 53.97%;
+  top: 0;
+  right: 20.26%;
+  bottom: 24.86%;
+  left: 25.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group59,
+.jul-8 {
+  position: absolute;
+  top: 82.87%;
+  left: 0;
+}
+.group59 {
+  height: 100%;
+  width: 4.84%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 95.16%;
+}
+.group,
+.group-icon1 {
+  position: absolute;
+  height: 53.92%;
+  width: 102.02%;
+  top: 52.89%;
+  right: -0.33%;
+  bottom: -6.81%;
+  left: -1.69%;
+}
+.group-icon1 {
+  height: 86.81%;
+  width: 100%;
+  top: 6.59%;
+  right: 0;
+  bottom: 6.59%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.svg {
+  position: relative;
+  width: 526.22px;
+  height: 151.55px;
+  text-align: center;
+  font-size: 11.23px;
+  color: #000;
+}
+.divmarket-history-panel {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 3px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-11 {
+  position: relative;
+  font-size: 28px;
+  line-height: 52px;
+  font-weight: 600;
+  color: #fff;
+}
+.divmarket-history-panel-over1 {
+  display: flex;
+  flex-direction: column;
+  padding: 0 387.22998046875px 16px 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-icon2,
+.vector-icon30 {
+  position: absolute;
+  height: 7.12%;
+  width: 96.67%;
+  top: 5.44%;
+  right: 2%;
+  bottom: 87.44%;
+  left: 1.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon30 {
+  height: 56.04%;
+  width: 46.78%;
+  top: 0;
+  right: 23.58%;
+  bottom: 43.96%;
+  left: 29.65%;
+}
+.group62,
+.jun-91,
+.vector-icon31 {
+  position: absolute;
+  top: 69.71%;
+  left: 0;
+}
+.group62,
+.vector-icon31 {
+  height: 56.56%;
+  width: 5.59%;
+  top: 43.44%;
+  right: 94.41%;
+  bottom: 0;
+}
+.vector-icon31 {
+  height: 55.58%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 44.42%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-101 {
+  position: absolute;
+  top: 69.39%;
+  left: 0;
+}
+.group64,
+.vector-icon32 {
+  position: absolute;
+  height: 55.97%;
+  width: 6.52%;
+  top: 44.03%;
+  right: 90.52%;
+  bottom: 0;
+  left: 2.96%;
+}
+.vector-icon32 {
+  height: 55.51%;
+  width: 42.52%;
+  top: 0;
+  right: 28.24%;
+  bottom: 44.49%;
+  left: 29.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-111 {
+  position: absolute;
+  top: 69.34%;
+  left: 0;
+}
+.group66,
+.vector-icon33 {
+  position: absolute;
+  height: 55.88%;
+  width: 6.15%;
+  top: 44.12%;
+  right: 87.46%;
+  bottom: 0;
+  left: 6.39%;
+}
+.vector-icon33 {
+  height: 55.05%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 44.95%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-121 {
+  position: absolute;
+  top: 69.02%;
+  left: 0;
+}
+.group68,
+.vector-icon34 {
+  position: absolute;
+  height: 55.31%;
+  width: 6.52%;
+  top: 44.69%;
+  right: 83.98%;
+  bottom: 0;
+  left: 9.5%;
+}
+.vector-icon34 {
+  height: 50.58%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 49.42%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-131 {
+  position: absolute;
+  top: 65.95%;
+  left: 0;
+}
+.group70,
+.vector-icon35 {
+  position: absolute;
+  height: 50.31%;
+  width: 6.52%;
+  top: 49.69%;
+  right: 80.72%;
+  bottom: 0;
+  left: 12.76%;
+}
+.vector-icon35 {
+  height: 51.18%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 48.82%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-141 {
+  position: absolute;
+  top: 66.36%;
+  left: 0;
+}
+.group72,
+.vector-icon36 {
+  position: absolute;
+  height: 50.93%;
+  width: 6.52%;
+  top: 49.07%;
+  right: 77.45%;
+  bottom: 0;
+  left: 16.03%;
+}
+.vector-icon36 {
+  height: 49.54%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 50.46%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-151 {
+  position: absolute;
+  top: 65.23%;
+  left: 0;
+}
+.group74,
+.vector-icon37 {
+  position: absolute;
+  height: 49.27%;
+  width: 6.52%;
+  top: 50.73%;
+  right: 74.18%;
+  bottom: 0;
+  left: 19.3%;
+}
+.vector-icon37 {
+  height: 49.65%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 50.35%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-161 {
+  position: absolute;
+  top: 65.3%;
+  left: 0;
+}
+.group76,
+.vector-icon38 {
+  position: absolute;
+  height: 49.38%;
+  width: 6.52%;
+  top: 50.62%;
+  right: 70.91%;
+  bottom: 0;
+  left: 22.57%;
+}
+.vector-icon38 {
+  height: 49.79%;
+  width: 41.27%;
+  top: 0;
+  right: 29.06%;
+  bottom: 50.21%;
+  left: 29.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-171 {
+  position: absolute;
+  top: 65.4%;
+  left: 0;
+}
+.group78,
+.vector-icon39 {
+  position: absolute;
+  height: 49.51%;
+  width: 6.33%;
+  top: 50.49%;
+  right: 67.75%;
+  bottom: 0;
+  left: 25.92%;
+}
+.vector-icon39 {
+  height: 49.79%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 50.21%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group80,
+.vector-icon40 {
+  position: absolute;
+  height: 49.51%;
+  width: 6.52%;
+  top: 50.49%;
+  right: 64.38%;
+  bottom: 0;
+  left: 29.1%;
+}
+.vector-icon40 {
+  height: 49.92%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 50.08%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-191 {
+  position: absolute;
+  top: 65.49%;
+  left: 0;
+}
+.group82,
+.vector-icon41 {
+  position: absolute;
+  height: 49.65%;
+  width: 6.52%;
+  top: 50.35%;
+  right: 61.11%;
+  bottom: 0;
+  left: 32.37%;
+}
+.vector-icon41 {
+  height: 26.48%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 73.52%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-201 {
+  position: absolute;
+  top: 49.34%;
+  left: 0;
+}
+.group84,
+.vector-icon42 {
+  position: absolute;
+  height: 33.82%;
+  width: 6.89%;
+  top: 66.18%;
+  right: 57.64%;
+  bottom: 0;
+  left: 35.47%;
+}
+.vector-icon42 {
+  height: 36.3%;
+  width: 40.09%;
+  top: 0;
+  right: 29.84%;
+  bottom: 63.7%;
+  left: 30.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-211 {
+  position: absolute;
+  top: 56.1%;
+  left: 0;
+}
+.group86,
+.vector-icon43 {
+  position: absolute;
+  height: 39.03%;
+  width: 6.52%;
+  top: 60.97%;
+  right: 54.58%;
+  bottom: 0;
+  left: 38.9%;
+}
+.vector-icon43 {
+  height: 41.12%;
+  width: 38.98%;
+  top: 0;
+  right: 27.79%;
+  bottom: 58.88%;
+  left: 33.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-221 {
+  position: absolute;
+  top: 59.43%;
+  left: 0;
+}
+.group88,
+.vector-icon44 {
+  position: absolute;
+  height: 42.23%;
+  width: 6.71%;
+  top: 57.77%;
+  right: 51.39%;
+  bottom: 0;
+  left: 41.9%;
+}
+.vector-icon44 {
+  height: 42.34%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 57.66%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-231 {
+  position: absolute;
+  top: 60.27%;
+  left: 0;
+}
+.group90,
+.vector-icon45 {
+  position: absolute;
+  height: 43.12%;
+  width: 6.89%;
+  top: 56.88%;
+  right: 47.83%;
+  bottom: 0;
+  left: 45.27%;
+}
+.vector-icon45 {
+  height: 42.45%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 57.55%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-241 {
+  position: absolute;
+  top: 60.34%;
+  left: 0;
+}
+.group92,
+.vector-icon46 {
+  position: absolute;
+  height: 43.2%;
+  width: 6.89%;
+  top: 56.8%;
+  right: 44.57%;
+  bottom: 0;
+  left: 48.54%;
+}
+.vector-icon46 {
+  height: 42.56%;
+  width: 38.98%;
+  top: 0;
+  right: 29.35%;
+  bottom: 57.44%;
+  left: 31.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-251 {
+  position: absolute;
+  top: 60.42%;
+  left: 0;
+}
+.group94,
+.vector-icon47 {
+  position: absolute;
+  height: 43.29%;
+  width: 6.71%;
+  top: 56.71%;
+  right: 41.49%;
+  bottom: 0;
+  left: 51.81%;
+}
+.vector-icon47 {
+  height: 45.82%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 54.18%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-261 {
+  position: absolute;
+  top: 62.66%;
+  left: 0;
+}
+.group96,
+.vector-icon48 {
+  position: absolute;
+  height: 45.89%;
+  width: 6.89%;
+  top: 54.11%;
+  right: 38.03%;
+  bottom: 0;
+  left: 55.08%;
+}
+.vector-icon48 {
+  height: 47.59%;
+  width: 38.98%;
+  top: 0;
+  right: 27.79%;
+  bottom: 52.41%;
+  left: 33.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-271 {
+  position: absolute;
+  top: 63.88%;
+  left: 0;
+}
+.group98,
+.vector-icon49 {
+  position: absolute;
+  height: 47.43%;
+  width: 6.71%;
+  top: 52.57%;
+  right: 35.06%;
+  bottom: 0;
+  left: 58.24%;
+}
+.vector-icon49 {
+  height: 52.15%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 47.85%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-281 {
+  position: absolute;
+  top: 67.03%;
+  left: 0;
+}
+.group100,
+.vector-icon50 {
+  position: absolute;
+  height: 51.96%;
+  width: 6.89%;
+  top: 48.04%;
+  right: 31.5%;
+  bottom: 0;
+  left: 61.61%;
+}
+.vector-icon50 {
+  height: 53.46%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 46.54%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-291 {
+  position: absolute;
+  top: 67.93%;
+  left: 0;
+}
+.group102,
+.vector-icon51 {
+  position: absolute;
+  height: 53.42%;
+  width: 6.89%;
+  top: 46.58%;
+  right: 28.23%;
+  bottom: 0;
+  left: 64.88%;
+}
+.vector-icon51 {
+  height: 53.03%;
+  width: 37.93%;
+  top: 0;
+  right: 31.26%;
+  bottom: 46.97%;
+  left: 30.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jun-301 {
+  position: absolute;
+  top: 67.63%;
+  left: 0;
+}
+.group104,
+.vector-icon52 {
+  position: absolute;
+  height: 52.94%;
+  width: 6.89%;
+  top: 47.06%;
+  right: 24.96%;
+  bottom: 0;
+  left: 68.14%;
+}
+.vector-icon52 {
+  height: 54.87%;
+  width: 58.47%;
+  top: 0;
+  right: 17.26%;
+  bottom: 45.13%;
+  left: 24.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-11 {
+  position: absolute;
+  top: 68.9%;
+  left: 0;
+}
+.group106,
+.vector-icon53 {
+  position: absolute;
+  height: 55.09%;
+  width: 4.47%;
+  top: 44.91%;
+  right: 23.08%;
+  bottom: 0;
+  left: 72.45%;
+}
+.vector-icon53 {
+  height: 55.26%;
+  width: 53.97%;
+  top: 0;
+  right: 20.25%;
+  bottom: 44.74%;
+  left: 25.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-21 {
+  position: absolute;
+  top: 69.16%;
+  left: 0;
+}
+.group108,
+.vector-icon54 {
+  position: absolute;
+  height: 55.57%;
+  width: 4.84%;
+  top: 44.43%;
+  right: 19.6%;
+  bottom: 0;
+  left: 75.55%;
+}
+.vector-icon54 {
+  height: 65.53%;
+  width: 53.97%;
+  top: 0;
+  right: 22.41%;
+  bottom: 34.47%;
+  left: 23.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-31 {
+  position: absolute;
+  top: 76.24%;
+  left: 0;
+}
+.group110,
+.vector-icon55 {
+  position: absolute;
+  height: 72.12%;
+  width: 4.84%;
+  top: 27.88%;
+  right: 16.23%;
+  bottom: 0;
+  left: 78.93%;
+}
+.vector-icon55 {
+  height: 68.23%;
+  width: 53.97%;
+  top: 0;
+  right: 22.41%;
+  bottom: 31.77%;
+  left: 23.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-41 {
+  position: absolute;
+  top: 78.11%;
+  left: 0;
+}
+.group112,
+.vector-icon56 {
+  position: absolute;
+  height: 78.27%;
+  width: 4.84%;
+  top: 21.73%;
+  right: 12.96%;
+  bottom: 0;
+  left: 82.19%;
+}
+.vector-icon56 {
+  height: 69.86%;
+  width: 53.97%;
+  top: 0;
+  right: 20.25%;
+  bottom: 30.14%;
+  left: 25.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-51 {
+  position: absolute;
+  top: 79.23%;
+  left: 0;
+}
+.group114,
+.vector-icon57 {
+  position: absolute;
+  height: 82.48%;
+  width: 4.84%;
+  top: 17.52%;
+  right: 9.8%;
+  bottom: 0;
+  left: 85.36%;
+}
+.vector-icon57 {
+  height: 70.04%;
+  width: 53.97%;
+  top: 0;
+  right: 22.41%;
+  bottom: 29.96%;
+  left: 23.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.jul-61 {
+  position: absolute;
+  top: 79.36%;
+  left: 0;
+}
+.group116,
+.vector-icon58 {
+  position: absolute;
+  height: 83%;
+  width: 4.84%;
+  top: 17%;
+  right: 6.43%;
+  bottom: 0;
+  left: 88.73%;
+}
+.vector-icon58 {
+  height: 75.14%;
+  width: 56.13%;
+  top: 0;
+  right: 21.07%;
+  bottom: 24.86%;
+  left: 22.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group118,
+.vector-icon59 {
+  position: absolute;
+  height: 100%;
+  width: 4.66%;
+  top: 0;
+  right: 3.27%;
+  bottom: 0;
+  left: 92.08%;
+}
+.vector-icon59 {
+  height: 75.12%;
+  width: 53.97%;
+  right: 20.26%;
+  bottom: 24.88%;
+  left: 25.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group120,
+.jul-81 {
+  position: absolute;
+  top: 82.85%;
+  left: 0;
+}
+.group120 {
+  height: 99.92%;
+  width: 4.84%;
+  top: 0.08%;
+  right: 0;
+  bottom: 0;
+  left: 95.16%;
+}
+.divmarket-history-panel1 {
+  flex-direction: column;
+  padding: 0 0 3px;
+  font-size: 13px;
+  color: #8f66ff;
+}
+.divmarket-history-panel1,
+.divsplit-panels,
+.section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divsplit-panels {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 91.54px;
+  font-size: 12px;
+  color: #00ad79;
+}
+.section {
+  flex-direction: column;
+  padding: 0 20px;
+  box-sizing: border-box;
+  gap: 40px;
+  max-width: 1184px;
+}
+.heading-4 {
+  position: relative;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 600;
+  color: #fff;
+}
+.divmarket-overview-stats-it {
+  position: absolute;
+  width: calc(100% - 478.8px);
+  top: 0;
+  right: 478.8px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0 87.58999633789062px 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.divasset-icon {
+  position: relative;
+  border-radius: 9.6px;
+  width: 19.19px;
+  height: 19.19px;
+}
+.heading-41 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.divh2d-84beb070 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 1.4200000762939453px 0.3999994695186615px 0;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 15px;
+  color: #fff;
+}
+.divmarket-overview-stats-it1 {
+  position: absolute;
+  width: calc(100% - 478.8px);
+  top: 0;
+  right: 319.21px;
+  left: 159.59px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 85.97999572753906px 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.divh2d-19bfe945 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.3999994695186615px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 16px;
+  color: #fff;
+}
+.divmarket-overview-stats-it2,
+.divmarket-overview-stats-it3,
+.divmarket-overview-stats-it4 {
+  position: absolute;
+  width: calc(100% - 478.8px);
+  top: 0;
+  right: 159.61px;
+  left: 319.19px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 71.58999633789062px 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.divmarket-overview-stats-it3,
+.divmarket-overview-stats-it4 {
+  right: 0.02px;
+  left: 478.78px;
+  padding: 0 105.58999633789062px 0 0;
+}
+.divmarket-overview-stats-it4 {
+  top: 60px;
+  right: 478.8px;
+  left: 0;
+  padding: 0 76.58999633789062px 0 0;
+}
+.divh2d-7b3aaa73 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 1.6199970245361328px 0.3999994695186615px 0;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 15px;
+  color: #fff;
+}
+.divmarket-overview-stats-it5 {
+  position: absolute;
+  width: calc(100% - 478.8px);
+  top: 60px;
+  right: 319.21px;
+  left: 159.59px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 84.77999877929688px 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.divh2d-b1a2ec29 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 0.9799976348876953px 0.3999994695186615px 0;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 15px;
+  color: #fff;
+}
+.divmarket-overview-stats-it6,
+.divmarket-overview-stats-it7 {
+  position: absolute;
+  width: calc(100% - 478.8px);
+  top: 60px;
+  right: 159.61px;
+  left: 319.19px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 57.589996337890625px 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.divmarket-overview-stats-it7 {
+  right: 0.02px;
+  left: 478.78px;
+  padding: 0 95.58999633789062px 0 0;
+}
+.divmarket-overview-stats {
+  position: absolute;
+  width: calc(100% - 425.61px);
+  top: 14.29px;
+  right: 425.61px;
+  left: 0;
+  height: 104px;
+}
+.label-borrow2,
+.label-earn2,
+.label-utilization {
+  position: absolute;
+  line-height: 16px;
+  font-weight: 500;
+}
+.label-utilization {
+  top: 14.29px;
+  left: 12.36px;
+  font-size: 10px;
+}
+.label-borrow2,
+.label-earn2 {
+  top: 68.53px;
+  left: 0;
+  color: #8f66ff;
+}
+.label-earn2 {
+  top: 106.76px;
+  left: 13.95px;
+  color: #00c289;
+}
+.divinterest-rate-model-keys {
+  position: relative;
+  width: 64.19px;
+  height: 133.92px;
+}
+.label-399,
+.label-578,
+.label-9836 {
+  position: absolute;
+  top: 16.29px;
+  left: 10.54px;
+  line-height: 16px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 40.86px;
+  height: 11px;
+}
+.label-399,
+.label-578 {
+  top: 70.53px;
+  left: 17.66px;
+  color: #8f66ff;
+  width: 33.73px;
+}
+.label-578 {
+  top: 108.76px;
+  left: 18.89px;
+  color: #00c289;
+  width: 32.5px;
+}
+.divinterest-rate-model-keys1,
+.svg-icon4 {
+  position: relative;
+  width: 51.19px;
+  height: 133.92px;
+}
+.svg-icon4 {
+  width: 294.22px;
+  height: 130.92px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divinterest-rate-model {
+  position: absolute;
+  top: 0;
+  left: 638.41px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7.99px;
+  color: #f0f2f5;
+}
+.divmarket-overview {
+  position: relative;
+  width: 1064px;
+  height: 133.92px;
+}
+.divpanel {
+  border-radius: 8px;
+  background-color: #1d2833;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 40px 40px 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cell-collateral {
+  left: 1px;
+}
+.cell-collateral,
+.cell-oracle,
+.cell-total {
+  position: absolute;
+  top: 1px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.cell-total {
+  left: 247.53px;
+  font-size: 10px;
+}
+.cell-oracle {
+  left: 484.13px;
+}
+.cell-collateral1,
+.cell-liquidation,
+.cell-liquidation1,
+.cell-reserves {
+  position: absolute;
+  top: 1px;
+  left: 600.8px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.cell-collateral1,
+.cell-liquidation,
+.cell-liquidation1 {
+  left: 716.84px;
+}
+.cell-liquidation,
+.cell-liquidation1 {
+  left: 832.91px;
+  font-size: 10px;
+}
+.cell-liquidation1 {
+  left: 949.14px;
+}
+.header-row {
+  position: relative;
+  width: 1064px;
+  height: 18px;
+}
+.eth,
+.ether {
+  position: relative;
+  line-height: 20px;
+}
+.eth {
+  font-size: 11px;
+  line-height: 16px;
+  font-weight: 500;
+  color: #7a8a99;
+}
+.data {
+  position: absolute;
+  width: calc(100% - 853.47px);
+  top: calc(50% - 40px);
+  right: 817.47px;
+  left: 36px;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 160.52999877929688px 22px 12px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divmeter-fill {
+  position: absolute;
+  width: calc(100% - 79.3px);
+  top: 0;
+  right: 79.3px;
+  left: 0;
+  border-radius: 8px;
+  background-color: #00c289;
+  height: 4px;
+}
+.divmeter-bar {
+  position: relative;
+  border-radius: 8px;
+  background-color: #2b3947;
+  width: 193.41px;
+  height: 4px;
+}
+.data-186553,
+.data1 {
+  position: absolute;
+  font-size: 14px;
+}
+.data1 {
+  top: 8.8px;
+  left: 231.53px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 26.17999267578125px 16px 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6.39px;
+}
+.data-186553 {
+  top: 30px;
+  left: 484.13px;
+  line-height: 20px;
+}
+.data-000,
+.data-5,
+.data-83,
+.data-90 {
+  position: absolute;
+  top: 30px;
+  left: 600.8px;
+  line-height: 20px;
+}
+.data-5,
+.data-83,
+.data-90 {
+  left: 716.84px;
+}
+.data-5,
+.data-90 {
+  left: 832.91px;
+}
+.data-5 {
+  left: 949.14px;
+}
+.data-icon {
+  position: absolute;
+  top: 20.5px;
+  left: 1px;
+  border-radius: 18px;
+  width: 36px;
+  height: 36px;
+}
+.row {
+  position: relative;
+  width: 1064px;
+  height: 80px;
+}
+.data2 {
+  position: absolute;
+  width: calc(100% - 853.47px);
+  top: calc(50% - 40px);
+  right: 817.47px;
+  left: 36px;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 89.52999877929688px 22px 12px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 14px;
+}
+.divmeter-fill1 {
+  position: absolute;
+  width: calc(100% - 71.57px);
+  top: 0;
+  right: 71.57px;
+  left: 0;
+  border-radius: 8px;
+  background-color: #00c289;
+  height: 4px;
+}
+.data4 {
+  position: absolute;
+  width: calc(100% - 853.47px);
+  top: calc(50% - 40px);
+  right: 817.47px;
+  left: 36px;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 125.52999877929688px 22px 12px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 14px;
+}
+.divmeter-fill2 {
+  position: absolute;
+  width: calc(100% - 3.88px);
+  top: 0;
+  right: 3.88px;
+  left: 0;
+  border-radius: 8px;
+  background-color: #00c289;
+  height: 4px;
+}
+.data6,
+.data8 {
+  position: absolute;
+  width: calc(100% - 853.47px);
+  top: calc(50% - 40px);
+  right: 817.47px;
+  left: 36px;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 141.52999877929688px 22px 12px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 14px;
+}
+.data8 {
+  padding: 22px 137.52999877929688px 22px 12px;
+}
+.divmeter-fill4 {
+  position: absolute;
+  width: calc(100% - 85.11px);
+  top: 0;
+  right: 85.11px;
+  left: 0;
+  border-radius: 8px;
+  background-color: #00c289;
+  height: 4px;
+}
+.data-620 {
+  position: absolute;
+  top: 30px;
+  left: 484.13px;
+  line-height: 20px;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 15px;
+  color: #fff;
+}
+.divpanel-markets-assets-con {
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 40px;
+}
+.divcontainer,
+.divpanel-markets-assets-con,
+.divpanel1,
+.main {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divpanel1 {
+  border-radius: 8px;
+  background-color: #1d2833;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 40px 0 32px;
+}
+.divcontainer,
+.main {
+  flex-direction: column;
+}
+.divcontainer {
+  padding: 0 20px;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 1184px;
+  font-size: 11px;
+}
+.main {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  padding: 48px 82.5px 60px;
+  gap: 48px;
+  font-size: 29px;
+}
+.link-governance {
+  position: relative;
+  line-height: 14px;
+}
+.divfooter-content-left {
+  display: flex;
+  flex-direction: row;
+  padding: 2px 433.7200012207031px 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26.28px;
+}
+.spantheme-toggle-thumb {
+  position: absolute;
+  top: -3px;
+  left: 30px;
+  border-radius: 15px;
+  background-color: #1d2833;
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.25), 0 1px 1px rgba(0, 0, 0, 0.25),
+    0 1px 3px rgba(0, 0, 0, 0.25);
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.label {
+  position: relative;
+  border-radius: 12px;
+  background-color: #2b3947;
+  width: 58px;
+  height: 24px;
+}
+.footer {
+  position: absolute;
+  top: 1298.47px;
+  left: 102.5px;
+  border-top: 1px solid rgba(249, 250, 251, 0.15);
+  display: flex;
+  flex-direction: row;
+  padding: 21px 0 20px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 514px;
+  font-size: 13px;
+}
+.divroot {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1349px;
+  height: 612px;
+}
+.appcompoundfinance-by-htmlt {
+  position: relative;
+  background-color: #0d131a;
+  width: 100%;
+  height: 1363px;
+  text-align: left;
+  font-size: 12px;
+  color: #7a8a99;
+  font-family: Inter;
+}
